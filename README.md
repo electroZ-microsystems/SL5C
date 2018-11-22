@@ -24,4 +24,4 @@ Crontrol DMX
 
 # Controller 
 
-Atmel Arduino Leonardo Chip
+Atmel Arduino Leonardo Chip, Arduino code
