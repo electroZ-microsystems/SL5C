@@ -2,6 +2,8 @@
 
 Spot light 5 colors DMX
 
+![Screenshot](./Image/20150911_225059_SL5CL_1.93_002..jpg)
+
 # Datasheet
 
 Total Power 40W
