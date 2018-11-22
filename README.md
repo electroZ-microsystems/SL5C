@@ -5,7 +5,7 @@ Spot light 5 colors DMX
 [//]: ![Screenshot](./Image/20150911_225059_SL5CL_1.93_002..jpg)
 
 <p align="center">
-  <img src="./Image/20150911_225059_SL5CL_1.93_002..jpg" width="400" alt="SL5C">
+  <img src="./Image/20150911_225059_SL5CL_1.93_002..jpg" width="500" alt="SL5C">
 </p>
 
 # Datasheet
